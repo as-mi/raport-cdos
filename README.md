@@ -12,9 +12,17 @@ Celelalte pachete necesare se pot instala folosind [pip](https://pip.pypa.io/en/
 python -m pip install -r requirements.txt
 ```
 
+De asemenea, trebuie să descărcați și să instalați fontul [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans?query=plex), care este folosit pentru textul din grafice.
+
+## Generarea graficelor
+
+Notebook-ul cu codul poate fi deschis folosind comanda:
+
 ```sh
 jupyter notebook Grafice.ipynb
 ```
+
+Executând fiecare celulă din notebook puteți genera automat toate graficele din raport.
 
 ## Datele de intrare
 
