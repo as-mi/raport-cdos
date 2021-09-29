@@ -18,7 +18,7 @@ jupyter notebook Grafice.ipynb
 
 ## Datele de intrare
 
-Script-ul se așteaptă să găsească fișierele Excel cu răspunsurile exportate în acest director.
+Script-ul se așteaptă să găsească în acest director fișierul Excel `Răspunsuri Licență.xlsx`, cu răspunsurile exportate din formularul pentru licență.
 
 ## Datele de ieșire
 
