@@ -12,7 +12,9 @@ Celelalte pachete necesare se pot instala folosind [pip](https://pip.pypa.io/en/
 python -m pip install -r requirements.txt
 ```
 
-De asemenea, trebuie să descărcați și să instalați fontul [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans?query=plex), care este folosit pentru textul din grafice.
+De asemenea, trebuie să descărcați și să instalați font-ul [IBM Plex Sans](https://fonts.google.com/specimen/IBM+Plex+Sans?query=plex), care este folosit pentru textul din grafice.
+
+Dacă script-ul nu găsește font-ul nou instalat, încercați [să resetați cache-ul de font-uri al `matplotlib`](https://stackoverflow.com/a/26106170/5723188).
 
 ## Generarea graficelor
 
